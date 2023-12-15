@@ -1,4 +1,4 @@
-module github.com/wowchemy/hugo-second-brain-theme
+module github.com/frankiewoo/second-brain
 
 go 1.15
 
